@@ -6,7 +6,7 @@ This project showcases my skills, projects, and journey as a developer.
 ## 🔗 Live Website
 Click below to view my portfolio live:
 
-[View Portfolio](https://niranjan-portfolio-fzm0.onrender.com/)
+[View Portfolio](https://niranjan-portfolio-qcco.onrender.com/)
 
 ## 📋 Project Overview
 - Designed and developed a responsive portfolio website.
